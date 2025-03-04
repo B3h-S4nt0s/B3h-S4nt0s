@@ -4,7 +4,7 @@
     <p align="left">
      <h2 align="center">Tudo bem? Sou <i>Breno Santos</i> 😃️👋</h2>
       <p align="center"><img width="140em" height="200em" src="https://github.com/thunder-shadow-sword/thunder-shadow-sword/blob/main/assets/myPerfil.png"></p>
-    - I'm Breno, I'm 23 years old.<br>
+    - I'm Breno, I'm 24 years old.<br>
     - 👀 I’m interested in Music, Programation, Robotic and Games;<br>
     - 🌱 I’m currently learning Computing Engeneer, Eletronic ,Music, Japonese, English;<br>
     - 💻 I'm focus in JavaScrit, TypeScript, Nodejs.<br>
