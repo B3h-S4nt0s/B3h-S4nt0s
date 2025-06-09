@@ -16,9 +16,9 @@
 </div>
 <h1 style="border-bottom: 3px solid gray">Skills</h1>
 <div align="center">
-  <a href="https://github.com/thunder-shadow-sword/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thunder-shadow-sword&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunder-shadow-sword&theme=dark&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/B3h-S4nt0s/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?beh-S4nt05&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beh-S4nt05&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -44,8 +44,3 @@
   <p>Feito com :heart:, :construction: e <img alt="Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
-
-<!---
- Look myself `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
