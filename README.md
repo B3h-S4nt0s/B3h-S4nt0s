@@ -17,8 +17,8 @@
 <h1 style="border-bottom: 3px solid gray">Skills</h1>
 <div align="center">
   <a href="https://github.com/B3h-S4nt0s/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=b3h-S4nt0s&show_icons=true&theme=transparent"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3h-S4nt05&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=b3h-S4nt0s&show_icons=true&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3h-S4nt0s&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
